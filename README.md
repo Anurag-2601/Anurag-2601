@@ -89,6 +89,6 @@ Aspiring Machine Learning Engineer with hands-on experience in Computer Vision, 
 - Demonstrated growth through continuous project updates and experimentation
 ---
 
-## Statement of Intent  
-I am seeking an internship opportunity in Machine Learning, Computer Vision, Data Analytics, or Software Development. I aim to contribute to real-world projects through my experience in ML pipelines, Power BI dashboarding, data preprocessing, and model evaluation. I am motivated to work with real datasets, learn industry-standard workflows, and contribute effectively to engineering or research teams while continuously improving my skills.
+## Statement of Intent
+- I am seeking an internship opportunity in Machine Learning, Computer Vision, Data Analytics, or Software Development. I aim to contribute to real-world projects through my experience in ML pipelines, Power BI dashboarding, data preprocessing, and model evaluation. I am motivated to work with real datasets, learn industry-standard workflows, and contribute effectively to engineering or research teams while continuously improving my skills.
 ---
