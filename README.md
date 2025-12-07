@@ -2,7 +2,9 @@
 ### Machine Learning | Computer Vision | Software Development  
 
 Email: pallelaanurag@gmailcom
-GitHub: https://github.com/Anurag-2601  
+
+GitHub: https://github.com/Anurag-2601   
+
 Location: India  
 
 ---
