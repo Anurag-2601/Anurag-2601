@@ -1,5 +1,5 @@
 #  I'm Pallela Anurag  
-### Machine Learning | Computer Vision | Software Development  
+### Machine Learning | Computer Vision | Software Development | Data Analytics 
 
 Email: pallelaanurag@gmailcom
 
@@ -16,10 +16,11 @@ Aspiring Machine Learning Engineer with hands-on experience in Computer Vision, 
 
 ## Technical Skills  
 
-**Programming:** Python, Java, C, JavaScript  
+**Programming:** Python , Java
 **Machine Learning:** Scikit-learn, TensorFlow/Keras, PCA, AutoEncoder, Decision Tree, Deep Neural Networks  
-**Computer Vision:** OpenCV, YOLOv8, CNN-based feature extraction  
-**Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code 
+**Computer Vision:** OpenCV, YOLOv8, CNN-based feature extraction
+**Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering  
+**Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code, MS Excel, Power BI, MS Access
 **Databases:** MySQL, Firebase (Authentication, Firestore/Realtime Database)  
 **Android Development:** Firebase Authentication, XML Layouts  
 **Web Technologies:** HTML, CSS, JavaScript (Basics)
