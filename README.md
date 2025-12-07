@@ -16,13 +16,13 @@ Aspiring Machine Learning Engineer with hands-on experience in Computer Vision, 
 
 ## Technical Skills  
 
-**Programming:** Python, Java, C, JavaScript  
-**Machine Learning:** Scikit-learn, TensorFlow/Keras, PCA, AutoEncoder, Decision Tree, Deep Neural Networks  
-**Computer Vision:** OpenCV, YOLOv8, CNN-based feature extraction  
-**Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code 
-**Databases:** MySQL, Firebase (Authentication, Firestore/Realtime Database)  
-**Android Development:** Firebase Authentication, XML Layouts  
-**Web Technologies:** HTML, CSS, JavaScript (Basics)
+<li>**Programming:** Python, Java, C, JavaScript  
+<li>**Machine Learning:** Scikit-learn, TensorFlow/Keras, PCA, AutoEncoder, Decision Tree, Deep Neural Networks  
+<li>**Computer Vision:** OpenCV, YOLOv8, CNN-based feature extraction  
+<li>**Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code 
+<li>**Databases:** MySQL, Firebase (Authentication, Firestore/Realtime Database)  
+<li>**Android Development:** Firebase Authentication, XML Layouts  
+<li>**Web Technologies:** HTML, CSS, JavaScript (Basics)
 
 ---
 
