@@ -1,94 +1,178 @@
-#  I'm Pallela Anurag  
-### Machine Learning | Computer Vision | Software Development | Data Analytics 
+# Hi, I’m Anurag — ML & AI Engineer in Training
 
-Email: pallelaanurag@gmailcom
+Focused on Computer Vision, Cyber-Attack Detection, and ML Model Deployment
 
-GitHub: https://github.com/Anurag-2601   
+I build practical, end-to-end systems — from preprocessing pipelines to model training, UI integration, and deployment-ready architecture. My work spans suspicious activity detection, IoT cyber-threat analysis, and data-driven dashboards.
 
-Location: India  
+---
+___
+
+## What I’m Currently Working On
+
+**Cyber Threat Detection for IoT-Enabled CPS:**
+
+Using AutoEncoders, PCA + Decision Trees, DNN, and a Tkinter-based desktop app for real-time analysis.
+
+**Suspicious Activity Detection (YOLOv8 + HAR):** 
+
+Integrating object detection + pose estimation + behavior rules.
+
+**Machine Learning Pipelines:**
+
+Cleaning datasets, building classifiers, tuning hyperparameters, and evaluating with metrics.
+
+---
+___
+
+## Core Skills
+
+**Machine Learning & AI :**
+
+- AutoEncoder, DNN, Decision Tree, PCA
+
+- Clustering, Classification, Anomaly Detection
+
+- Hyperparameter Tuning (GridSearchCV)
+
+- Evaluation: Confusion Matrix, ROC, F1, AUC
+
+**Computer Vision :**
+
+- YOLOv8
+
+- OpenCV
+
+- Human Activity Recognition
+
+- Image preprocessing and augmentation
+
+**Software Development :**
+
+- Python (Advanced)
+
+- Tkinter GUI
+
+-  Modular Code, Pipelines, Clean Architecture
+
+- Power BI Dashboards
+
+**Tools & Tech :**
+
+- Jupyter Notebook
+
+- Git/GitHub
+
+- Numpy, Pandas, Scikit-Learn
+
+- Matplotlib/Seaborn
+
+- TensorFlow / PyTorch (beginner–intermediate)
+
+- Roboflow datasets
+
+---
+___
+
+# Highlighted Projects
+
+## 1. Analyzing & Detecting Cyber Threats (Tkinter App)
+
+A complete desktop application that:
+
+✔ Preprocesses IoT datasets
+
+✔ Trains AutoEncoder, Decision Tree (with PCA), and DNN
+
+✔ Detects cyber-attacks
+
+✔ Visualizes model performance through graphs
+
+✔ Exports results
+
+End-to-end implementation showing both ML and software engineering skills.
 
 ---
 
-## Professional Summary  
-Aspiring Machine Learning Engineer with hands-on experience in Computer Vision, Deep Learning, and Cybersecurity for IoT-based systems. Skilled in building complete ML pipelines, developing desktop applications using Python, and implementing Android applications with Firebase Authentication. Strong foundation in algorithms, object detection, model training workflows, and data preprocessing. Seeking an internship opportunity to apply technical skills, contribute to real-world projects, and continue building industry-level experience.
+## 2. Suspicious Activity Detection (YOLOv8 + HAR Pipeline)
+
+A vision-based system combining:
+
+✔ Object detection
+
+✔ Pose-based human activity recognition
+
+✔ Behavior inference
+
+✔ Real-time alerting logic
+
+Demonstrates computer vision, model integration, and rule-based logic building.
 
 ---
 
-## Technical Skills  
+## 3. Machine Learning & AI Lab
 
-**<li>Programming:** Python , Java
+A curated set of ML algorithms implemented from scratch, focusing on:
 
-**<li>Machine Learning:** Scikit-learn, TensorFlow/Keras, PCA, AutoEncoder, Decision Tree, Deep Neural Networks  
+✔ Core ML concepts
 
-**<li>Computer Vision:** OpenCV, YOLOv8, CNN-based feature extraction
+✔ Clean code
 
-**<li>Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering  
+✔ Mathematical intuition
 
-**<li>Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code, MS Excel, Power BI, MS Access
-
-**<li>Databases:** MySQL, Firebase (Authentication, Firestore/Realtime Database)  
-
-**<li>Android Development:** Firebase Authentication, XML Layouts  
-
-**<li>Web Technologies:** HTML, CSS, JavaScript (Basics)
+Shows strong fundamentals.
 
 ---
 
-## Projects  
+## 4. Power BI Dashboards
 
-### Cyber Attack Detection in IoT-enabled Cyber-Physical Systems  
-- Developed a full ML pipeline using AutoEncoder, Decision Tree with PCA, and DNN for attack detection and classification.  
-- Created a Tkinter-based desktop application for dataset upload, preprocessing, model training, visualization, and results export.  
-- Implemented performance metrics for model comparison and analysis.
+Interactive dashboards for:
 
-### Suspicious Activity and Object Detection using YOLOv8  
-- Implemented YOLOv8 for real-time detection of suspicious objects and activities in surveillance environments.  
-- Focused on dataset preparation, annotation workflow, accuracy optimization, and inference speed improvement.  
-- Evaluated model performance using precision, recall, FPS, and overall robustness.
+✔ Retail analytics
 
-### Power BI Data Analytics Project  
-- Designed an interactive Power BI dashboard to analyze and visualize key performance indicators from the dataset present in the repository.  
-- Performed data cleaning, transformation, and modeling using Power BI and Power Query.  
-- Created functional visuals including bar charts, line graphs, slicers, and summary cards for decision-making insights.  
-- Demonstrated ability to convert raw data into actionable insights through business intelligence tools.
+✔ Business insights
 
-### FoodRescue App (Android)  
-- Built an Android application enabling secure donor and receiver interactions using Firebase Authentication.  
-- Designed a clean and intuitive interface for ease of use.
+✔ KPI visualization
+
+Business + data storytelling capability.
 
 ---
-
-## Core Strengths  
-- End-to-end machine learning workflow development  
-- Computer vision expertise with YOLO and CNN-based architectures  
-- Strong data analytics and visualization skills using Power BI and Python libraries  
-- Ability to design interactive dashboards and derive insights from complex datasets  
-- Experience building GUI applications for ML and analytics visualization  
-- Solid algorithmic thinking, attention to detail, and structured problem-solving  
-- Adaptability, continuous learning mindset, and effective team collaboration
-
 ---
 
-## What I Offer as an Intern  
-- Hands-on experience in machine learning, computer vision, and data analytics  
-- Ability to contribute to dashboard creation, KPI analysis, and data storytelling using Power BI  
-- Capability to support ML research, dataset preparation, model evaluation, and feature engineering  
-- Experience developing GUI tools for model interaction and visual analysis  
-- Strong documentation, clean coding practices, and version control proficiency  
-- Fast learner with eagerness to adopt industry frameworks and engineering practices  
-- Commitment to delivering high-quality, reliable, and maintainable work
+## What I Do Differently
+
+- Treat every project like a mini product, not a college assignment
+
+- Write clear READMEs and create reproducible pipelines
+
+- Focus on interpretability (SHAP, feature importance, metrics)
+
+- Prioritize clean coding, not just working code
+
+- Show the “why”, not just the “output”
 
 ---
-
-## GitHub Highlights  
-- Machine Learning pipelines, model training scripts, and performance comparisons  
-- Computer Vision implementations using YOLOv8 and OpenCV  
-- Power BI dashboards and data analytics workflows included in repositories  
-- Tkinter-based desktop applications for ML visualization and result reporting  
-- Well-structured project folders, readable code, and consistent version history  
-- Demonstrated growth through continuous project updates and experimentation
 ---
 
-## Statement of Intent
-- I am seeking an internship opportunity in Machine Learning, Computer Vision, Data Analytics, or Software Development. I aim to contribute to real-world projects through my experience in ML pipelines, Power BI dashboarding, data preprocessing, and model evaluation. I am motivated to work with real datasets, learn industry-standard workflows, and contribute effectively to engineering or research teams while continuously improving my skills.
+## What I’m Looking For
+
+An internship where I can apply my ML/AI skills in:
+
+- Computer Vision
+
+- Cybersecurity Analytics
+
+- ML Engineering
+
+- Applied Machine Learning
+
+- Intelligent Automation
+
+I’m ready to contribute to real-world systems, experiment, and solve practical problems.
+
 ---
+---
+
+# Let’s Connect
+
+Email: anuragpallela2601@gmail.com
+
