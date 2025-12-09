@@ -1,4 +1,4 @@
-# Hi, I’m Anurag — ML & AI Engineer in Training
+# Hi, I’m Pallela Anurag — ML & AI Engineer in Training
 
 Focused on Computer Vision, Cyber-Attack Detection, and ML Model Deployment
 
